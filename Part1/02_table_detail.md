@@ -40,7 +40,7 @@
 </table>
 ```
 
-![3행 4열 기본 table](../img/02/01.png)
+![3행 4열 기본 table](./img/02/01.png)
 
 테이블은 만들어 지지만 우리가 알고있는 테두리가 있는 테이블이 아니므로 이젠 속성값을 부여해서 테이블로 꾸며줘야합니다.
 
@@ -61,7 +61,7 @@ td {
 }
 ```
 
-![border 속성을 부여한 테이블](../img/02/02.png)
+![border 속성을 부여한 테이블](./img/02/02.png)
 
 테두리가 생겼지만 테두리가 두줄씩 나타나는걸 확인할 수 있습니다. <br/>
 
@@ -83,7 +83,7 @@ table {
 }
 ```
 
-![border-collapse 적용한 테이블](../img/02/03.png)
+![border-collapse 적용한 테이블](./img/02/03.png)
 
 ✅ border-collapse: collapse;란?
 
@@ -136,7 +136,7 @@ table {
 </table>
 ```
 
-![colspan, rowspan 예시](../img/02/04.png)
+![colspan, rowspan 예시](./img/02/04.png)
 
 ✅ `colspan="4"` → 한 행에서 4개의 열을 병합 <br/>
 ✅ `rowspan="3"` → 한 열에서 3개의 행을 병합

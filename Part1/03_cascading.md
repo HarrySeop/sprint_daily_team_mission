@@ -59,7 +59,7 @@ p {
 | `<p id="special">`            | `#special` ID 때문에 **빨간색(red)** 적용                        |
 | `<p class="text force-blue">` | `.force-blue`에 `!important`가 있기 때문에 **파란색(blue)** 적용 |
 
-![!important 예시](../img/03/01.png)
+![!important 예시](./img/03/01.png)
 
 > 2순위에 나올 명시도에 의해 id 선택자가 우선순위가 calss 선택자보다 우선순위가 높지만 `!important`를 사용해서 파란색이 적용됐습니다.
 
@@ -95,7 +95,7 @@ h1 {
 } /* 우선순위: 100 */
 ```
 
-![명시도 예시](../img/03/02.png)
+![명시도 예시](./img/03/02.png)
 
 `<h1>`와 `class 선택자`에도 속성 값을 부여했지만 `id 선택자`의 우선 순위가 높아 예시처럼 빨간색으로 적용됐습니다.
 
