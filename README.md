@@ -26,3 +26,4 @@
 | **3월 03일 (월)** | 휴무(대체 공휴일)                                  | 휴무                                                                                                             |
 | **3월 04일 (화)** | 브라우저 폰트 크기 변경에 대응하는 반응형 스타일링 | [11. 브라우저 폰트 크기 변경에 대응하는 반응형 스타일링](./Part1/11_responsive_fonts.md)                         |
 | **3월 05일 (수)** | CSS position 속성과 특징                           | [12. CSS position 속성과 특징](./Part1/12_css_position.md)                                                       |
+| **3월 06일 (목)** | JavaScript에서 '=='와 '==='의 차이                 | [13. JavaScript에서 '=='와 '==='의 차이](./Part1/13_js_equality.md)                                              |
