@@ -139,5 +139,4 @@
 
 ### 참고자료
 
-[MDN - CSS Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)  
-[CSS Layout Techniques](https://css-tricks.com/)
+[MDN - CSS Position](https://developer.mozilla.org/ko/docs/Web/CSS/position)
