@@ -5,7 +5,7 @@
 ### 📌 첫 번째 예시 (값 기반 업데이트)
 
 ```jsx
-let prev = 4;
+const [state, setState] = useState(4);
 setState(prev + 1);
 setState(prev + 1);
 setState(prev + 1);
@@ -18,7 +18,7 @@ setState(prev + 1);
 ### 📌 두 번째 예시 (업데이트 함수 기반)
 
 ```jsx
-let prev = 4;
+const [state, setState] = useState(4);
 setState(prev => prev + 1);
 setState(prev => prev + 1);
 setState(prev => prev + 1);
